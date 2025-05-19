@@ -1,0 +1,144 @@
+ * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+      background: #e3e3e2;
+    }
+     h1{
+        text-align: center;
+        margin-bottom: 50px;
+        margin-top: 50px;
+     }
+     h2{
+        text-align: center;
+        margin-bottom: 20px;
+     }
+     p{
+
+        text-align: center;
+        margin-left: 25%;
+        width: 50%;
+     }
+
+.navbar {
+  background-color: #adf7b0;
+  margin: 0;
+  padding: 10px;
+  width: 100%;
+  height: auto;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 50px;
+  margin-left: 43.5%;
+  
+}
+
+.nav-links li a:hover {
+  color: #e0ffe0;
+}
+
+.links{
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+
+     .destacados{
+        background-color: rgb(169, 232, 248);
+        width: 100%;
+        padding: 20px;
+        border-radius: 10px;;
+     
+       
+     }
+    .carrusel {
+        margin-left: 42%;
+      width: 300px;
+      height: 250px;
+      overflow: hidden;
+      position: relative;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    }
+
+    .slides {
+      display: flex;
+      width: 400%;
+      transition: 0.5s ;
+    }
+
+    .slide {
+      width: 100%;
+      flex-shrink: 0;
+    
+      
+    }
+
+    .slide img {
+      width: auto;
+      height: 250px;
+      
+    }
+
+   
+    input[name="radio-btn"] {
+      display: none;
+    }
+
+    .navigation-manual {
+      position: absolute;
+      width: 100%;
+      bottom: 10px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .manual-btn {
+      border: 2px solid #fff;
+      padding: 5px;
+      border-radius: 50%;
+      cursor: pointer;
+      transition: background 0.3s;
+      margin: 0 5px;
+    }
+
+    .manual-btn:hover {
+      background: #fff;
+    }
+/*Desplaza el carrusel para mostrar las imagenes*/
+    #radio1:checked ~ .slides {
+      transform: translateX(0%);
+    }
+
+    #radio2:checked ~ .slides {
+      transform: translateX(-100%);
+    }
+
+    #radio3:checked ~ .slides {
+      transform: translateX(-200%);
+    }
+
+    #radio4:checked ~ .slides {
+      transform: translateX(-300%);
+    }
+
+    .link1{
+        text-decoration: none;
+        color: #000;
+       text-align: center;
+        font-weight: bold;
+        margin-left: 48%;
+        width: 20%;
+        padding: 10px;
+        background-color: #80ec85;
+        border-radius: 10px;
+    }
