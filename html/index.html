@@ -1,11 +1,63 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <title>Portal de Eventos</title>
+  <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
-    
+  <section>
+    <header>
+      <nav class="navbar">
+        <ul class="nav-links">
+          <li class="links"><a href="index.html">Inicio</a></li>
+          <li class="links"><a href="eventos.html">Eventos</a></li>
+        </ul>
+      </nav>
+      <h1>Portal de Eventos</h1>
+
+      <p>
+        Descubre, participa, conecta y crea iniciativas que promueven un futuro más sostenible.
+        En <strong>EcoAgenda</strong> reunimos los mejores encuentros, talleres, ferias y jornadas dedicadas
+        al cuidado del medio ambiente. Ya seas activista, estudiante, profesional o simplemente
+        alguien que quiere aportar su granito de arena, aquí encontrarás oportunidades para aprender,
+        inspirarte actuar.
+      </p>
+      <br>
+      <div class="destacados">
+        <h2>Eventos mas destacados</h2>
+        <div class="carrusel">
+
+          <input type="radio" name="radio-btn" id="radio1" checked>
+          <input type="radio" name="radio-btn" id="radio2">
+          <input type="radio" name="radio-btn" id="radio3">
+          <input type="radio" name="radio-btn" id="radio4">
+
+
+          <div class="slides">
+            <div class="slide"><a href="evento1.html"><img src="/img/evento1.jpg" alt=""></a></div>
+            <div class="slide"><a href="evento2.html"><img src="/img/evento2.jpg" alt=""></a></div>
+            <div class="slide"><a href="evento3.html"><img src="/img/evento3.jpg" alt=""></a></div>
+            <div class="slide"><a href="evento6.html"><img src="/img/evento6.jpg" alt=""></a></div>
+          </div>
+
+
+          <div class="navigation-manual">
+            <label for="radio1" class="manual-btn"></label>
+            <label for="radio2" class="manual-btn"></label>
+            <label for="radio3" class="manual-btn"></label>
+            <label for="radio4" class="manual-btn"></label>
+          </div>
+        </div>
+      </div>
+    </header>
+    <footer>
+      <p>Hay muchos mas eventos en los que te puedes apuntar o incluso crear</p>
+      <a class="link1"  href="eventos.html">Eventos</a> 
+    </footer>
+  </section>
 </body>
+
 </html>
