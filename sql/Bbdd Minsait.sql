@@ -34,7 +34,7 @@ descp VARCHAR(200) NOT NULL,
 organizador_id INT,
 categoria_id INT,
 ubicacion_id INT,
-estado ENUM('Activo','Cancelado'),
+estado ENUM('Activo','Cancelado') NOT NULL,
 FOREIGN KEY (organizador_id) REFERENCES organizadores(id),
 FOREIGN KEY (categoria_id) REFERENCES categoria(id),
 FOREIGN KEY (ubicacion_id) REFERENCES ubicacion(id)
