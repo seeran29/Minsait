@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yk2PPQcRFoE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaminsait\\programaminsait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.300\\microsoft.net.sdk.compilers.toolset.9.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}
