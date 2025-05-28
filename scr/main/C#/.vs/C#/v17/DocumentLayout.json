@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\organizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\organizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,18 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\inscripciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\categorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\ubicaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|c:\\users\\david\\desktop\\minsait\\scr\\main\\c#\\programaminsait\\organizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBDD8EAB-2DB1-53CA-73DA-A9F930612BC1}|programaMinsait\\programaMinsait.csproj|solutionrelative:programaminsait\\organizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "programaMinsait\\Categorias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:41:11.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T06:41:11.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Eventos.cs",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Eventos.cs",
               "RelativeDocumentMoniker": "programaMinsait\\Eventos.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "programaMinsait\\Eventos.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwCcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:41:10.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T06:41:10.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Inscripciones.cs",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Inscripciones.cs",
               "RelativeDocumentMoniker": "programaMinsait\\Inscripciones.cs",
@@ -80,25 +78,24 @@
               "RelativeToolTip": "programaMinsait\\Inscripciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T06:41:07.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T06:41:07.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Organizadores.cs",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Organizadores.cs",
               "RelativeDocumentMoniker": "programaMinsait\\Organizadores.cs",
               "ToolTip": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Organizadores.cs",
               "RelativeToolTip": "programaMinsait\\Organizadores.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwA0AAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T06:41:07.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Ubicaciones.cs",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Ubicaciones.cs",
               "RelativeDocumentMoniker": "programaMinsait\\Ubicaciones.cs",
@@ -111,26 +108,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Usuario.cs",
               "RelativeDocumentMoniker": "programaMinsait\\Usuario.cs",
               "ToolTip": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Usuario.cs",
               "RelativeToolTip": "programaMinsait\\Usuario.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBcAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T06:41:05.387Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Program.cs",
               "RelativeDocumentMoniker": "programaMinsait\\Program.cs",
               "ToolTip": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\Program.cs",
               "RelativeToolTip": "programaMinsait\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T06:40:38.482Z",
               "EditorCaption": ""
