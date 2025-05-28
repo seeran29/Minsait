@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaminsait\\programaminsait.csproj",
-      "projectName": "programaminsait",
-      "projectPath": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaminsait\\programaminsait.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\programaMinsait.csproj",
+      "projectName": "programaMinsait",
+      "projectPath": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\programaMinsait.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaminsait\\obj\\",
+      "outputPath": "C:\\Users\\David\\Desktop\\Minsait\\scr\\main\\C#\\programaMinsait\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,12 +67,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.Net.Sdk.Compilers.Toolset",
-            "version": "[9.0.300, 9.0.300]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\bin\Debug\net9.0\programaMinsait.exe
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\bin\Debug\net9.0\programaMinsait.deps.json
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\bin\Debug\net9.0\programaMinsait.runtimeconfig.json
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\bin\Debug\net9.0\programaMinsait.dll
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\bin\Debug\net9.0\programaMinsait.pdb
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.AssemblyInfo.cs
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.sourcelink.json
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.dll
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\refint\programaMinsait.dll
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.pdb
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\programaMinsait.genruntimeconfig.cache
+C:\Users\David\Desktop\Minsait\scr\main\C#\programaMinsait\obj\Debug\net9.0\ref\programaMinsait.dll
